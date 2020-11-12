@@ -19,11 +19,11 @@
     } */
 
 .bg-orange {
-  background-image: url("/image/img-2.webp");
+  background-image: url("./image/img-2.webp");
 }
 
 .bg-pink {
-  background-image: url("/image/img-1_1920X.jpg");
+  background-image: url("./image/img-1_1920X.jpg");
 }
 
 /* body */

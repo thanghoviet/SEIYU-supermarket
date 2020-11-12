@@ -15,11 +15,11 @@
 }
 
 .logo-color {
-  background-image: url("/image/desline/Untitled-1-pink.png");
+  background-image: url("./image/desline/Untitled-1-pink.png");
 }
 
 .test-logo:hover {
-  background-image: url("/image/desline/Untitled-1-green.png");
+  background-image: url("./image/desline/Untitled-1-green.png");
 }
 
 #products-container {
