@@ -3,27 +3,13 @@
   padding: 0px;
   box-sizing: border-box;
 }
-/* body {
-    background-image: url("../image/background/25101.jpg");
-    width: 100%;
-    } */
-
-/* utility class */
-
-/* .bg-orange {
-    background-color: #ffdb4f;
-    }
-
-    .bg-pink {
-    background-color: #f9b1af;
-    } */
 
 .bg-orange {
-  background-image: url("./image/img-2.webp");
+  background-image: url("../image/img-2.webp");
 }
 
 .bg-pink {
-  background-image: url("./image/img-1_1920X.jpg");
+  background-image: url("../image/img-1_1920X.jpg");
 }
 
 /* body */
@@ -217,7 +203,7 @@ img {
 }
 
 .featured-1 {
-  background-image: url("./image/img-1_1920X.jpg");
+  background-image: url("../image/img-1_1920X.jpg");
   background-size: cover;
   width: 500px;
   position: relative;
@@ -225,7 +211,7 @@ img {
 }
 
 .featured-2 {
-  background-image: url("./image/img-2.webp");
+  background-image: url("../image/img-2.webp");
   background-size: cover;
   width: 500px;
   position: relative;
@@ -269,7 +255,7 @@ h4 {
 
 .Our {
   /* margin: 200px 0px; */
-  background-image: url("./image/background/leaf.webp");
+  background-image: url("../image/background/leaf.webp");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;

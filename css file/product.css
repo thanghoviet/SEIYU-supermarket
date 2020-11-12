@@ -12,11 +12,11 @@
 }
 
 .logo-color {
-  background-image: url("./image/desline/Untitled-1-pink.png");
+  background-image: url("../image/desline/Untitled-1-pink.png");
 }
 
 .test-logo:hover {
-  background-image: url("./image/desline/Untitled-1-green.png");
+  background-image: url("../image/desline/Untitled-1-green.png");
 }
 
 #products-container {
@@ -79,7 +79,7 @@
 
 footer {
   background: rgba(20, 20, 20, 0.7)
-    url("./image/background/blog-1_49ce4b16-fb0a-488e-a203-3a1a84091ced_600x.webp");
+    url("../image/background/blog-1_49ce4b16-fb0a-488e-a203-3a1a84091ced_600x.webp");
   background-blend-mode: darken;
   background-size: cover;
   height: 300px;
