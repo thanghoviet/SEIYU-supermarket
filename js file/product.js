@@ -61,7 +61,7 @@ function showProduct() {
   tbProducts.innerHTML = "";
   for (let item of productList) {
     tbProducts.innerHTML += `<div class="tbProduct">
-    <img src="/image/sản phẩm/${item.img}" />
+    <img src="./image/sản phẩm/${item.img}" />
     <div>${item.kgButton()}</div>
         <h3 id="name">${item.name}</h3>
         <span>${item.showPrice()}</span>
