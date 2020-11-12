@@ -3,10 +3,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
-/* body {
-  background-image: url("../image/background/25101.jpg");
-  width: 100%;
-} */
+
 .product {
   display: flex;
   justify-content: space-around;
@@ -79,17 +76,10 @@
   font-weight: 1000;
   color: rgb(128, 238, 17);
 }
-/* footer {
-  background: rgba(20, 20, 20, 0.6)
-    url("/image/background/blog-1_49ce4b16-fb0a-488e-a203-3a1a84091ced_600x.webp");
-  background-blend-mode: darken;
-  color: white;
-  display: flex;
-  justify-content: center;
-} */
+
 footer {
   background: rgba(20, 20, 20, 0.7)
-    url("/image/background/blog-1_49ce4b16-fb0a-488e-a203-3a1a84091ced_600x.webp");
+    url("./image/background/blog-1_49ce4b16-fb0a-488e-a203-3a1a84091ced_600x.webp");
   background-blend-mode: darken;
   background-size: cover;
   height: 300px;
