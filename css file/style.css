@@ -57,8 +57,12 @@
   font-family: "Lemonada", cursive;
   font-size: 15px;
 }
+/* #bar2:hover {
+  height: 250px;
+} */
 #bar1:hover {
   color: #0ee015;
+  height: 250px;
 }
 #bar2:hover {
   color: #4caf50;

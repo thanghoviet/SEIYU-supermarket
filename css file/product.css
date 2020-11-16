@@ -158,5 +158,64 @@ footer {
 #sponsor {
   display: flex;
   justify-content: space-between;
-  margin: 50px auto;
+  margin: 10px auto;
+}
+#nhataitro {
+  font-size: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  font-family: "Lemonada", cursive;
+  color: rgb(97, 185, 9);
+}
+/* .fas fa-sort-down:hover {
+  height: 100px;
+} */
+
+/* phần hover của nav-bar */
+#lalala a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 15px;
+  display: inline-block;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  display: inline-block;
+}
+ul li:hover {
+  background: rgb(255, 255, 255);
+}
+ul li:hover ul {
+  display: block;
+}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li {
+  background: rgb(255, 255, 255);
+  display: block;
+}
+ul li ul li a {
+  display: block !important;
+  text-decoration: none;
+  color: black;
+}
+ul li ul li a:hover {
+  color: rgb(128, 238, 17);
+}
+ul li ul li:hover {
+  background: rgb(255, 255, 255);
+}
+#lalala {
+  width: 500px;
+  height: 200px;
 }
